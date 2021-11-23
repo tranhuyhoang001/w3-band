@@ -397,7 +397,7 @@ html {
     text-decoration: none;
 }
 
-#content .content-section a:hover,
+#content .contact-content a:hover,
 #footer .socials-list a:hover,
 #footer .copyright a:hover {
     color: rgba(0, 0, 0, 0.3);
@@ -408,7 +408,7 @@ html {
     color: rgba(0, 0, 0, 0.6);
 }
 
-#content .content-section a,
+#content .contact-content a,
 #footer .copyright a {
     color: rgba(0, 0, 0, 0.6);
 }
